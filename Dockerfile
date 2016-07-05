@@ -1,5 +1,5 @@
 FROM rawmind/alpine-nginx:1.10.1-7
-MAINTAINER Raul Sanchez <rawmind@gmail.com>
+MAINTAINER BBVA Innovation Technologies <innotech@bbva.com>
 
 ENV SERVICE_NAME=vamp-ui \
     SERVICE_VERSION=0.8.4 \
